@@ -7,6 +7,6 @@ https://rafiahmadfauzi88-cyber-taskflow-app-j6cmh4.streamlit.app/
 
 ## Pembagian Peran & Anggota Kelompok (Kelas TI 02)
 - **Rafi Ahmad Fauzi** (`0110226062`) — 
-- **[Nama Lengkap Anggota 2]** (`[NIM Anggota 2]`) — 
+- **Raden Ahmad Habibillah** (`[0110226098]`) — 
 - **[Nama Lengkap Anggota 3]** (`[NIM Anggota 3]`) — 
 - **[Nama Lengkap Anggota 4]** (`[NIM Anggota 4]`) — 
